@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajmehta28599
-- 👀 I’m interested in ... Embedded systems
-- 🌱 I’m currently learning ... Robotics Automation
-- 💞️ I’m looking to collaborate on ... ML
+- 👀 I’m interested in ... Robotics
+- 🌱 I’m currently learning ... Robot Operating System 2
+- 💞️ I’m looking to collaborate on ... Robot Nevigation
 - 📫 How to reach me ... rajmehta28599v@gmail.com
 - 
 
