@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajmehta28599
 - 👀 I’m interested in ... Robotics
 - 🌱 I’m currently learning ... Robot Operating System 2
-- 💞️ I’m looking to collaborate on ... Robot Nevigation
+- 💞️ I’m looking to collaborate on ... Robot Navigation stack
 - 📫 How to reach me ... rajmehta28599v@gmail.com
 - 
 
